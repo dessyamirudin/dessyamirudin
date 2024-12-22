@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dessyamirudin
 - 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning Forecasting to help me write better timeseries data
+- 🌱 I’m currently learning various method in Data Analysis, Enrichment, Data Science and AI
 - 💞️ I’m looking to collaborate on R package creation, writing book and article, and pro-bono work
 - 📫 How to reach me amirudind <at> gmail <dot> com
 
